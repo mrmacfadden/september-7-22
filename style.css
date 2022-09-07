@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(221, 244, 255);
+  text-align: center;
+  font-family: sans-serif;
+  color: rgb(20, 20, 44);
+}
+
+img {
+  width: 200px;
+  border-radius: 50%;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+h3,
+p {
+  margin: 0;
+  padding: 0;
+}
+h3 {
+  text-transform: uppercase;
+  font-size: 2.15em;
+}
+p {
+  font-weight: 100;
+  margin-top: 20px;
+}
